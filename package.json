@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "node-sass": "^7.0.3",
+    "sass-loader": "^13.1.0",
+    "vue": "^3.2.13",
+    "vue-route": "^1.5.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
@@ -22,7 +25,9 @@
     "eslint-plugin-import": "^2.25.3",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^5.1.0",
-    "eslint-plugin-vue": "^8.0.3"
+    "eslint-plugin-vue": "^8.0.3",
+    "vue-loader": "^17.0.1",
+    "vue-template-compiler": "^2.7.13"
   },
   "eslintConfig": {
     "root": true,

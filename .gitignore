@@ -1,7 +1,7 @@
 .DS_Store
+starter-code
 node_modules
 /dist
-starter-code
 
 
 # local env files
