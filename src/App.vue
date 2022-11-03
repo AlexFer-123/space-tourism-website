@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>ola</h1>
+    <router-view />
   </div>
 </template>
 

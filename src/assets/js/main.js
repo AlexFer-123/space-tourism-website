@@ -1,1 +1,1 @@
-/* eslint-disable eol-last */
+/* eslint-disable */
